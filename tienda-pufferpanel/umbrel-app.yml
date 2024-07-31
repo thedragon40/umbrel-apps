@@ -4,18 +4,11 @@ name: PufferPanel
 tagline: 
 icon: https://avatars.githubusercontent.com/u/9778794?s=200&v=4
 category: Hosting
-version: "1.0.2"
+version: "2.7.1"
 port: 8080
 description: >-
   Instala PufferPanel en Umbrel
   PufferPanel es un panel de control de código abierto para servidores de juegos que permite a los usuarios iniciar y administrar servidores de juegos desde una interfaz fácil de usar. La interfaz se ejecuta como un servidor web autohospedado que es accesible para los dispositivos en la red local por defecto y puede ser reenviado para proporcionar acceso externo fuera de tu red local. PufferPanel está diseñado para ser fácil de instalar y usar, requiriendo sólo un poco de conocimiento técnico y un deseo de aprender para empezar. PufferPanel sigue siendo desarrollado activamente y estamos continuamente haciendo mejoras importantes al software.
-
-  Una vez que llegues a la página web de PufferPanel, serás recibido con una pantalla de inicio de sesión. Las credenciales predeterminadas se pueden establecer en default.json antes de la primera ejecución:
-
-  - Ve a Configuración > Configuración avanzada > Terminal > Aplicaciones
-  - usa este comando "vi app/config/default-creds.txt"
-    Recomendamos encarecidamente cambiar esto inmediatamente después de iniciar sesión.
-
 developer: PufferPanel
 website: https://pufferpanel.com/
 submitter: juanqp
@@ -23,9 +16,8 @@ submission:
 repo:
 support: 
 gallery:
-  - 
-  - https://wiki.craftycontrol.com/uploads/en/crafty%204%20dashboard.png
-  - https://i.ytimg.com/vi/56zwZmj_ZYo/maxresdefault.jpg
+  - https://imgur.com/jcOtiDF
+  - https://imgur.com/mTL5lHk
 releaseNotes: >
   
 dependencies: []
