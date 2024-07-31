@@ -9,6 +9,6 @@ services:
       - "5657:5657"
       - "5656:5656"
     environment:
-      VIRTUAL_HOST: <your host>
-      VIRTUAL_PORT: <your port>
+      VIRTUAL_HOST: umbrel.local
+      VIRTUAL_PORT: 8080
     restart: unless-stopped
