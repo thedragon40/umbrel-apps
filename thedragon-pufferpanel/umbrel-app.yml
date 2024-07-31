@@ -11,7 +11,8 @@ description: >-
   
   PufferPanel es un panel de control de código abierto para servidores de juegos que permite a los usuarios iniciar y administrar servidores de juegos desde una interfaz fácil de usar.
 
-  Para configurar tu cuenta debes ir a la [Terminal](http://umbrel.local/settings/terminal/app/thedragon-pufferpanel), y escoger la opcion de la aplicacion PufferPanel y hay poner el siguiente comando `/pufferpanel/pufferpanel user add`
+  Para configurar tu cuenta debes ir a la Terminal, y escoger la opcion de la aplicacion PufferPanel y hay poner el siguiente comando 
+  - /pufferpanel/pufferpanel user add
 developer: PufferPanel
 website: https://pufferpanel.com/
 submitter: juanqp
@@ -25,5 +26,5 @@ releaseNotes: >
   
 dependencies: []
 path: ""
-defaultUsername: ""
+defaultUsername: "Abrir terminal de la aplicación y usar el siguiente comando: /pufferpanel/pufferpanel user add"
 defaultPassword: ""
