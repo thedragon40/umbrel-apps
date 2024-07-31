@@ -1,7 +1,7 @@
 manifestVersion: 1
 id: thedragon-pufferpanel
 name: PufferPanel
-tagline: 
+tagline: Gestor de servidor de juegos y mucho más.
 icon: https://i.imgur.com/5fLl27Y.png
 category: Alojamiento
 version: "2.7.1"
