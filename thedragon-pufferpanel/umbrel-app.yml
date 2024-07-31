@@ -8,7 +8,8 @@ version: "2.7.1"
 port: 8080
 description: >-
   Instala PufferPanel en Umbrel
-  PufferPanel es un panel de control de código abierto para servidores de juegos que permite a los usuarios iniciar y administrar servidores de juegos desde una interfaz fácil de usar. La interfaz se ejecuta como un servidor web autohospedado que es accesible para los dispositivos en la red local por defecto y puede ser reenviado para proporcionar acceso externo fuera de tu red local. PufferPanel está diseñado para ser fácil de instalar y usar, requiriendo sólo un poco de conocimiento técnico y un deseo de aprender para empezar. PufferPanel sigue siendo desarrollado activamente y estamos continuamente haciendo mejoras importantes al software.
+  
+  PufferPanel es un panel de control de código abierto para servidores de juegos que permite a los usuarios iniciar y administrar servidores de juegos desde una interfaz fácil de usar.
 
   Para configurar tu cuenta debes ir a la [Terminal](http://umbrel.local/settings/terminal/app/thedragon-pufferpanel), y escoger la opcion de la aplicacion PufferPanel y hay poner el siguiente comando `/pufferpanel/pufferpanel user add`
 developer: PufferPanel
