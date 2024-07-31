@@ -22,5 +22,5 @@ releaseNotes: >
   
 dependencies: []
 path: ""
-defaultUsername: "admin@example.com"
-defaultPassword: "admin"
+defaultUsername: ""
+defaultPassword: ""
