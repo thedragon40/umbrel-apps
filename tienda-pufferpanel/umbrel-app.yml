@@ -2,7 +2,7 @@ manifestVersion: 1
 id: tienda-pufferpanel
 name: PufferPanel
 tagline: 
-icon: https://avatars.githubusercontent.com/u/9778794?s=200&v=4
+icon: https://i.imgur.com/5fLl27Y.png
 category: Hosting
 version: "2.7.1"
 port: 8080
