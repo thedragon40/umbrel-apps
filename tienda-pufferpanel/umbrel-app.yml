@@ -2,7 +2,7 @@ manifestVersion: 1
 id: tienda-pufferpanel
 name: PufferPanel
 tagline: 
-icon: https://gitlab.com/uploads/-/system/project/avatar/20430749/Crafty_4-0_Logo_square.ico
+icon: https://avatars.githubusercontent.com/u/9778794?s=200&v=4
 category: Hosting
 version: "1.0.2"
 port: 8080
@@ -18,12 +18,12 @@ description: >-
 
 developer: PufferPanel
 website: https://pufferpanel.com/
-submitter: TuNombre
+submitter: juanqp
 submission:
 repo:
 support: 
 gallery:
-  - https://wiki.craftycontrol.com/uploads/en/crafty%204%20login.png
+  - 
   - https://wiki.craftycontrol.com/uploads/en/crafty%204%20dashboard.png
   - https://i.ytimg.com/vi/56zwZmj_ZYo/maxresdefault.jpg
 releaseNotes: >
