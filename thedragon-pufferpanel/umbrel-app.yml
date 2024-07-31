@@ -25,5 +25,5 @@ releaseNotes: >
   
 dependencies: []
 path: ""
-defaultUsername: "Abrir terminal de la aplicación y usar el siguiente comando: /pufferpanel/pufferpanel user add"
-defaultPassword: ""
+defaultUsername: "root@localhost"
+defaultPassword: "pufferpanel"
