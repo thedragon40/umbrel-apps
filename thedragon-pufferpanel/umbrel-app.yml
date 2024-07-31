@@ -3,7 +3,7 @@ id: thedragon-pufferpanel
 name: PufferPanel
 tagline: 
 icon: https://i.imgur.com/5fLl27Y.png
-category: Hosting
+category: Alojamiento
 version: "2.7.1"
 port: 8080
 description: >-
