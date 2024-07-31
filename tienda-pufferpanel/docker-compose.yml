@@ -11,4 +11,6 @@ services:
     environment:
       - PUFFERPANEL_LISTEN=0.0.0.0:8080
       - PUFFERPANEL_DAEMON_LISTEN=0.0.0.0:5657
+      - PUFFERPANEL_DEFAULT_USERNAME=admin
+      - PUFFERPANEL_DEFAULT_PASSWORD=admin
     restart: unless-stopped
