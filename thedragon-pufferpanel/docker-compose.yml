@@ -1,14 +1,14 @@
 version: '3'
 services:
   pufferpanel:
-    image: pufferpanel/pufferpanel:latest
+    image: jorisvos037/pufferpanel
+    container_name: pufferpanel
     ports:
       - "8080:8080"
+      - "25565:25565"
       - "5657:5657"
-    volumes:
-      - ./data:/var/lib/pufferpanel
-      - /var/run/docker.sock:/var/run/docker.sock
+      - "5656:5656"
     environment:
-      - PUFFERPANEL_LISTEN=0.0.0.0:8080
-      - PUFFERPANEL_DAEMON_LISTEN=0.0.0.0:5657
+      VIRTUAL_HOST: <your host>
+      VIRTUAL_PORT: <your port>
     restart: unless-stopped
